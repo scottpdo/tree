@@ -33,6 +33,8 @@
     "gulp-suitcss": "^3.0.0",
     "gulp-tinify": "^1.0.2",
     "gulp-uglify": "^2.1.2",
+    "lodash": "^4.17.11",
+    "open": "^6.1.0",
     "postcss-nested": "^1.0.1",
     "run-sequence": "^1.2.2",
     "suitcss": "^3.0.0",
@@ -52,9 +54,5 @@
     "standard": "^10.0.1",
     "stylelint": "^7.10.1",
     "stylelint-config-suitcss": "^11.0.0"
-  },
-  "engines": {
-    "node": "^6.10",
-    "npm": "^3.10"
   }
 }
